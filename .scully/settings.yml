@@ -1,0 +1,10 @@
+identifier: lcv6u6x8o2j334i1
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: blog-ng-scully
+homeFolder: /Users/dasmac/Angular/scully-blog-app/blog-ng-scully
+distFolder: dist/blog-ng-scully
+outDir: /Users/dasmac/Angular/scully-blog-app/blog-ng-scully/dist/static
+handle404: ''
